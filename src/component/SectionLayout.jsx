@@ -13,7 +13,7 @@ function SectionLayout() {
     const showModal = (data) => {
         setModalOpen(!modalOpen)
         setActiveData(data)
-        console.log(data);
+        // console.log(data);
     }
 
     return (
@@ -22,8 +22,6 @@ function SectionLayout() {
                 return (
                     <Card showModal={() => showModal(info)}  {...info} key={nanoid()} />)
             })}
-
-
             <Modal
                 centered
                 open={modalOpen}
