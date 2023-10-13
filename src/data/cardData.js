@@ -13,6 +13,7 @@ export const foodInfo = [
     number: "10",
     limitLicense: "false",
     ranking: 2,
+    match:'100% Match',
     method:
       " Heat the oil in a medium pan over a medium heat. Fry the onion and garlic for 8-10 mins until soft. Add the chorizo and fry for 5 mins more. Tip in the tomatoes and sugar, and season. Bring to a simmer, then add the gnocchi and cook for 8 mins, stirring often, until soft. Heat the grill to high. STEP 2-- Stir ¾ of the mozzarella and most of the basil through the gnocchi. Divide the mixture between six ovenproof ramekins, or put in one baking dish. Top with the remaining mozzarella, then grill for 3 mins, or until the cheese is melted and golden. Season, scatter over the remaining basil and serve with green salad."
   },
@@ -27,6 +28,7 @@ export const foodInfo = [
     serving: 3,
     maxReadyTime: 55,
     ranking: 5,
+    match:'75% Match',
     method:
       " STEP 1-- Heat the oven to 180C/160C fan/gas 4. Oil and line the base of two 18cm sandwich tins. Sieve the flour, cocoa powder and bicarbonate of soda into a bowl. Add the caster sugar and mix well. STEP 2-- Make a well in the centre and add the golden syrup, eggs, sunflower oil and milk. Beat well with an electric whisk until smooth. STEP 3-- Pour the mixture into the two tins and bake for 25-30 mins until risen and firm to the touch. Remove from oven, leave to cool for 10 mins before turning out onto a cooling rack. STEP 4--To make the icing, beat the unsalted butter in a bowl until soft. Gradually sieve and beat in the icing sugar and cocoa powder, then add enough of the milk to make the icing fluffy and spreadable. STEP 5--Sandwich the two cakes together with the butter icing and cover the sides and the top of the cake with more icing."
   },
@@ -41,6 +43,7 @@ export const foodInfo = [
     serving: 4,
     maxReadyTime: 5,
     ranking: 3,
+    match:'100% Match',
     method:
       " STEP 1 Mix together the sweet chilli sauce, soy sauce, zest and lime juice. STEP 2  Toss together with a bag of spinach, rocket and watercress salad and serve immediately."
   },
@@ -55,6 +58,7 @@ export const foodInfo = [
     serving: 3,
     maxReadyTime: 20,
     ranking: 4,
+    match:'80% Match',
     method:
       " STEP 1 Heat oven to 200C/180C fan/gas 6. Mix together 1 tbsp oil, the mustard, honey and some seasoning. Put the salmon fillets on a baking tray and spread the honey and mustard mixture all over. Tip the lentils and beetroot into a casserole dish, toss with the remaining oil and season well. Put both in the oven for 10 mins until the salmon is cooked through. STEP 2 Stir the crème fraîche, dill, capers and lemon zest through the lentils. Serve alongside the salmon with the pumpkin seeds scattered over and lemon wedges for squeezing, with a rocket salad on the side, if you like."
   },
@@ -69,6 +73,7 @@ export const foodInfo = [
     serving: 2,
     maxReadyTime: 40,
     ranking: 4,
+    match:'90% Match',
     method:
       " STEP 1--Heat oven to 220C/200C fan/gas 7. Make up a bread mix following packet instructions, stirring in olive oil and parmesan. STEP 2--Roughly roll out the dough on a lightly oiled baking sheet. Press all your fingers randomly into the dough, push dolcelatte into the holes, then drizzle over a little extra olive oil. Bake for 25 mins until golden and cooked through. Serve warm or at room temperature."
   },
@@ -83,6 +88,7 @@ export const foodInfo = [
     serving: 4,
     maxReadyTime: 45,
     ranking: 5,
+    match:'45% Match',
     method:
       " STEP 1-- Tip the flour into a large mixing bowl. Mix the yeast into one side of the flour, and the fine salt into the other side. Then mix everything together, this initial seperation prevents the salt from killing the yeast.    STEP 2-- Make a well in the middle of the flour and add 2 tbsp oil and 350-400ml lukewarm water, adding it gradually until you have a slightly sticky dough (you may not need all the water). Sprinkle the work surface with flour and tip the dough onto it, scraping around the sides of the bowl. Knead for 5-10 mins until your dough is soft and less sticky. Put the dough into a clean bowl, cover with a tea towel and leave to prove for 1 hr until doubled in size. STEP 3--  Oil a rectangle, shallow tin (25 x 35cm). Tip the dough onto the work surface, then stretch it to fill the tin. Cover with a tea towel and leave to prove for another 35-45 mins. STEP 4--  Heat the oven to 220C/200C fan/gas 7. Press your fingers into the dough to make dimples. Mix together 1½ tbsp olive oil, 1 tbsp water and the flaky salt and drizzle over the bread. Push sprigs of rosemary into the dimples in the dough. STEP 5-- Bake for 20 mins until golden. Whilst the bread is still hot, drizzle over 1-2 tbsp olive oil. Cut into squares and serve warm or cold with extra olive oil, if you like."
   }

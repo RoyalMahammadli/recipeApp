@@ -5,19 +5,41 @@
   width: 31%;
   cursor: pointer;
   text-align: center;
+  position: relative;
 }
 .card figure {
   width: 200px;
   margin: 0 auto;
 }
-figure img{
-    width: 100%;
-    object-fit: cover;
-    border-radius: .5rem;
+figure img {
+  width: 100%;
+  object-fit: cover;
+  border-radius: .5rem;
 }
-.card .text{
-    background-color: whitesmoke;
+.card .text {
+  background-color: whitesmoke;
+  border-radius: .5rem;
 }
- .card h3{
+.card h3 {
   margin: .5rem 0;
- }
+}
+.match {
+  /* width: 100px; */
+  padding:.5rem .2rem ; 
+  border-radius: .5rem;
+  background-color: rgb(140, 202, 16);
+  position: absolute;
+  right: 0;
+  bottom: 68px;
+  font-weight: bolder;
+}
+.card .box{
+  background-color: rgba(0, 0, 0, 0.596);
+  width: 30px;
+  height: 30px;
+  border-radius: 40%;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: .5rem;
+}

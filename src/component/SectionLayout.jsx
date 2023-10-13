@@ -37,6 +37,7 @@ function SectionLayout() {
                 <p><b>Included Ingredients:</b>{activeData.includeIngredients}</p>
                 <p ><b>Method:</b>{activeData.method}</p>
                 <p className={!activeData.instructionsRequired ? 'no' : 'yes'}><b>Instructions Required : {!activeData.instructionsRequired ? 'No' : 'Yes'}</b></p>
+                <p><b>{activeData.match}</b></p>
                 <MyRate ranking={activeData.ranking} />
             </Modal>
         </section>
